@@ -1,5 +1,4 @@
-
-![image](https://raw.githubusercontent.com/mflux-community/mflux/refs/heads/Assets-MFlux-Community/mflux-community-logo.jpg)
+![image](https://raw.githubusercontent.com/mflux-community/.github/refs/heads/main/assets/mflux-community-logo.jpg)
 
 [🤗 Hugging Face](https://huggingface.co/mflux-community)
 
