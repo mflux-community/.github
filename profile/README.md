@@ -7,10 +7,12 @@ It allows users to generate images from text prompts via a simple CLI command `m
 MFlux leverages Apple’s MLX framework - taking advantage of unified memory and Metal acceleration for efficient on-device inference.
 
 <!-- ORG-TABLE:START -->
-**MFlux Models: 241 | Source Models: 36 | Model Families: 12**
+**MFlux Models: 253 | Source Models: 38 | Model Families: 12**
 
 |Model | Model Family | Type | Release Date | Size | BF16 | Q8 | Q6 | Q5 | Q4 | Q3 |
 |:--- | --- | --- | ---------- | -- | :-: | :-: | :-: | :-: | :-: | :-: |
+| [Fibo-2.0-Edit-Turbo](https://huggingface.co/briaai/Fibo-2.0-edit-turbo) | - | - | Oct 2026 | 25.5GB | [BF16](https://huggingface.co/mflux-community/fibo-2-0-edit-turbo-mflux-bf16) | [Q8](https://huggingface.co/mflux-community/fibo-2-0-edit-turbo-mflux-q8) | [Q6](https://huggingface.co/mflux-community/fibo-2-0-edit-turbo-mflux-q6) | [Q5](https://huggingface.co/mflux-community/fibo-2-0-edit-turbo-mflux-q5) | [Q4](https://huggingface.co/mflux-community/fibo-2-0-edit-turbo-mflux-q4) | [Q3](https://huggingface.co/mflux-community/fibo-2-0-edit-turbo-mflux-q3) |
+| [Fibo-2.0-Dev](https://huggingface.co/briaai/Fibo-2.0-dev) | - | - | Oct 2026 | 25.5GB | [BF16](https://huggingface.co/mflux-community/fibo-2-0-dev-mflux-bf16) | [Q8](https://huggingface.co/mflux-community/fibo-2-0-dev-mflux-q8) | [Q6](https://huggingface.co/mflux-community/fibo-2-0-dev-mflux-q6) | [Q5](https://huggingface.co/mflux-community/fibo-2-0-dev-mflux-q5) | [Q4](https://huggingface.co/mflux-community/fibo-2-0-dev-mflux-q4) | [Q3](https://huggingface.co/mflux-community/fibo-2-0-dev-mflux-q3) |
 | [Flux.3-Image-Klein](https://huggingface.co/black-forest-labs/flux-3-image-klein) | flux3 | image | Oct 2026 | 43.3GB | [BF16](https://huggingface.co/mflux-community/flux-3-image-klein-mflux-bf16) | [Q8](https://huggingface.co/mflux-community/flux-3-image-klein-mflux-q8) | [Q6](https://huggingface.co/mflux-community/flux-3-image-klein-mflux-q6) |  | [Q4](https://huggingface.co/mflux-community/flux-3-image-klein-mflux-q4) |  |
 | [Flux.3-Image-Klein-Base](https://huggingface.co/black-forest-labs/flux-3-image-klein-base) | flux3 | image | Oct 2026 | 43.2GB | [BF16](https://huggingface.co/mflux-community/flux-3-image-klein-base-mflux-bf16) | [Q8](https://huggingface.co/mflux-community/flux-3-image-klein-base-mflux-q8) | [Q6](https://huggingface.co/mflux-community/flux-3-image-klein-base-mflux-q6) |  | [Q4](https://huggingface.co/mflux-community/flux-3-image-klein-base-mflux-q4) |  |
 | [Qwen-Image 2.1 Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) | qwen-image-2.1 | image | Oct 2026 | 32.5GB | [BF16](https://huggingface.co/mflux-community/qwen-image-2-1-turbo-mflux-bf16) | [Q8](https://huggingface.co/mflux-community/qwen-image-2-1-turbo-mflux-q8) | [Q6](https://huggingface.co/mflux-community/qwen-image-2-1-turbo-mflux-q6) | [Q5](https://huggingface.co/mflux-community/qwen-image-2-1-turbo-mflux-q5) | [Q4](https://huggingface.co/mflux-community/qwen-image-2-1-turbo-mflux-q4) |  |
@@ -55,4 +57,4 @@ MFlux leverages Apple’s MLX framework - taking advantage of unified memory and
 | [Flux.1 Dev](https://huggingface.co/black-forest-labs/FLUX.1-dev) | flux1 | image | Aug 2024 | 57.9GB | [BF16](https://huggingface.co/mflux-community/flux-1-dev-mflux-bf16) | [Q8](https://huggingface.co/mflux-community/flux-1-dev-mflux-q8) | [Q6](https://huggingface.co/mflux-community/flux-1-dev-mflux-q6) | [Q5](https://huggingface.co/mflux-community/flux-1-dev-mflux-q5) | [Q4](https://huggingface.co/mflux-community/flux-1-dev-mflux-q4) | [Q3](https://huggingface.co/mflux-community/flux-1-dev-mflux-q3) |
 <!-- ORG-TABLE:END -->
 
-<sub>Update: 2026-10-22 10:28 UTC</sub>
+<sub>Update: 2026-10-26 05:39 UTC</sub>
